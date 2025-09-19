@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+Pillow
+opencv-python
+numpy
+azure-identity
+azure-ai-openai
+python-multipart
